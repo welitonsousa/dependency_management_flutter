@@ -1,0 +1,1 @@
+enum ModelState {stopped, loading, success, error}
